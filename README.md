@@ -1,7 +1,7 @@
 # FeatureMap_Visualize_Pytorch
 This repo is a code that can be visualized and saved as an images.
 ## Demo
-<img src="https://user-images.githubusercontent.com/53032349/131291421-aadda627-93d0-477b-8b16-d99ffd35eaf8.png" width="100%" height="100%" title="70px" alt="memoryblock"><br>
+<img src="https://user-images.githubusercontent.com/53032349/131292093-36aa6ccb-f3b2-41b2-8544-cd13d600ad59.png" width="100%" height="100%" title="70px" alt="memoryblock"><br>
 
 ## Getting Started
 
