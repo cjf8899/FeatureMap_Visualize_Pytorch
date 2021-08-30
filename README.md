@@ -27,7 +27,7 @@ ResNet(
   )
   ...
 ```
-When the module name is 'layer1', the number is '0' and '1'.
+When the module name is **layer1**, the number is **0** and **1**.
 
 ## Run
 ```Shell
