@@ -28,7 +28,14 @@ ResNet(
   ...
 ```
 When the module name is **layer1**, the number is **0** and **1**.
-
+```
+visualize.py
+...
+visual = FM_visualize(model.layer1, 0)
+or
+visual = FM_visualize(model.layer1, 1)  
+...
+```
 ## Run
 ```Shell
 python visualize.py --img_path ./dog.jpg
