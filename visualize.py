@@ -13,7 +13,7 @@ class FM_visualize:
 
         
 parser = argparse.ArgumentParser(description='Feature Map Visualizing')
-parser.add_argument('--img_path', default='./dog.jpg', type=str, help='pretrained model')
+parser.add_argument('--img_path', default='./dog.jpg', type=str, help='image path')
 args = parser.parse_args()
 
 
